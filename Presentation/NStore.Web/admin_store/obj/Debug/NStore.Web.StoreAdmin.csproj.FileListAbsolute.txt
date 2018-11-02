@@ -4,3 +4,9 @@ E:\NStore\Presentation\NStore.Web\bin\NStore.Web.StoreAdmin.pdb
 E:\NStore\Presentation\NStore.Web\admin_store\obj\Debug\NStore.Web.StoreAdmin.csprojResolveAssemblyReference.cache
 E:\NStore\Presentation\NStore.Web\admin_store\obj\Debug\NStore.Web.StoreAdmin.dll
 E:\NStore\Presentation\NStore.Web\admin_store\obj\Debug\NStore.Web.StoreAdmin.pdb
+D:\test\NStore\NStore\Presentation\NStore.Web\bin\NStore.Web.StoreAdmin.dll.config
+D:\test\NStore\NStore\Presentation\NStore.Web\bin\NStore.Web.StoreAdmin.dll
+D:\test\NStore\NStore\Presentation\NStore.Web\bin\NStore.Web.StoreAdmin.pdb
+D:\test\NStore\NStore\Presentation\NStore.Web\admin_store\obj\Debug\NStore.Web.StoreAdmin.csprojResolveAssemblyReference.cache
+D:\test\NStore\NStore\Presentation\NStore.Web\admin_store\obj\Debug\NStore.Web.StoreAdmin.dll
+D:\test\NStore\NStore\Presentation\NStore.Web\admin_store\obj\Debug\NStore.Web.StoreAdmin.pdb

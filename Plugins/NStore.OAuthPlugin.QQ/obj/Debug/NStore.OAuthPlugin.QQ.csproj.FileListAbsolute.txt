@@ -6,3 +6,11 @@ E:\NStore\Presentation\NStore.Web\plugins\NStore.OAuthPlugin.QQ\NStore.OAuthPlug
 E:\NStore\Plugins\NStore.OAuthPlugin.QQ\obj\Debug\NStore.OAuthPlugin.QQ.csprojResolveAssemblyReference.cache
 E:\NStore\Plugins\NStore.OAuthPlugin.QQ\obj\Debug\NStore.OAuthPlugin.QQ.dll
 E:\NStore\Plugins\NStore.OAuthPlugin.QQ\obj\Debug\NStore.OAuthPlugin.QQ.pdb
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.OAuthPlugin.QQ\plugin.config
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.OAuthPlugin.QQ\views\adminqqoauth\config.cshtml
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.OAuthPlugin.QQ\db.config
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.OAuthPlugin.QQ\NStore.OAuthPlugin.QQ.dll
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.OAuthPlugin.QQ\NStore.OAuthPlugin.QQ.pdb
+D:\test\NStore\NStore\Plugins\NStore.OAuthPlugin.QQ\obj\Debug\NStore.OAuthPlugin.QQ.csprojResolveAssemblyReference.cache
+D:\test\NStore\NStore\Plugins\NStore.OAuthPlugin.QQ\obj\Debug\NStore.OAuthPlugin.QQ.dll
+D:\test\NStore\NStore\Plugins\NStore.OAuthPlugin.QQ\obj\Debug\NStore.OAuthPlugin.QQ.pdb

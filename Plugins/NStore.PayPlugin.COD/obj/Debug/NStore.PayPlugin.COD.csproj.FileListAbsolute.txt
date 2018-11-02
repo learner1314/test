@@ -6,3 +6,10 @@ E:\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.COD\NStore.PayPlugin.
 E:\NStore\Plugins\NStore.PayPlugin.COD\obj\Debug\NStore.PayPlugin.COD.csprojResolveAssemblyReference.cache
 E:\NStore\Plugins\NStore.PayPlugin.COD\obj\Debug\NStore.PayPlugin.COD.dll
 E:\NStore\Plugins\NStore.PayPlugin.COD\obj\Debug\NStore.PayPlugin.COD.pdb
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.COD\db.config
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.COD\plugin.config
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.COD\views\admincod\config.cshtml
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.COD\NStore.PayPlugin.COD.dll
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.COD\NStore.PayPlugin.COD.pdb
+D:\test\NStore\NStore\Plugins\NStore.PayPlugin.COD\obj\Debug\NStore.PayPlugin.COD.dll
+D:\test\NStore\NStore\Plugins\NStore.PayPlugin.COD\obj\Debug\NStore.PayPlugin.COD.pdb

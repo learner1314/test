@@ -9,3 +9,9 @@ E:\NStore\Presentation\NStore.Web\bin\NStore.Web.Mobile.pdb
 E:\NStore\Presentation\NStore.Web\mobile\obj\Debug\NStore.Web.Mobile.csprojResolveAssemblyReference.cache
 E:\NStore\Presentation\NStore.Web\mobile\obj\Debug\NStore.Web.Mobile.dll
 E:\NStore\Presentation\NStore.Web\mobile\obj\Debug\NStore.Web.Mobile.pdb
+D:\test\NStore\NStore\Presentation\NStore.Web\bin\NStore.Web.Mobile.dll.config
+D:\test\NStore\NStore\Presentation\NStore.Web\bin\NStore.Web.Mobile.dll
+D:\test\NStore\NStore\Presentation\NStore.Web\bin\NStore.Web.Mobile.pdb
+D:\test\NStore\NStore\Presentation\NStore.Web\mobile\obj\Debug\NStore.Web.Mobile.csprojResolveAssemblyReference.cache
+D:\test\NStore\NStore\Presentation\NStore.Web\mobile\obj\Debug\NStore.Web.Mobile.dll
+D:\test\NStore\NStore\Presentation\NStore.Web\mobile\obj\Debug\NStore.Web.Mobile.pdb

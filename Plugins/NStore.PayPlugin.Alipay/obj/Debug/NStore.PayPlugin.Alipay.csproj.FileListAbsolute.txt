@@ -7,3 +7,12 @@ E:\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Alipay\NStore.PayPlug
 E:\NStore\Plugins\NStore.PayPlugin.Alipay\obj\Debug\NStore.PayPlugin.Alipay.csprojResolveAssemblyReference.cache
 E:\NStore\Plugins\NStore.PayPlugin.Alipay\obj\Debug\NStore.PayPlugin.Alipay.dll
 E:\NStore\Plugins\NStore.PayPlugin.Alipay\obj\Debug\NStore.PayPlugin.Alipay.pdb
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Alipay\plugin.config
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Alipay\views\adminalipay\config.cshtml
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Alipay\db.config
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Alipay\views\show.cshtml
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Alipay\NStore.PayPlugin.Alipay.dll
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Alipay\NStore.PayPlugin.Alipay.pdb
+D:\test\NStore\NStore\Plugins\NStore.PayPlugin.Alipay\obj\Debug\NStore.PayPlugin.Alipay.csprojResolveAssemblyReference.cache
+D:\test\NStore\NStore\Plugins\NStore.PayPlugin.Alipay\obj\Debug\NStore.PayPlugin.Alipay.dll
+D:\test\NStore\NStore\Plugins\NStore.PayPlugin.Alipay\obj\Debug\NStore.PayPlugin.Alipay.pdb

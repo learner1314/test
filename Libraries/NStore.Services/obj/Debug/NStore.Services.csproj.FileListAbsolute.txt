@@ -7,3 +7,12 @@ E:\NStore\Libraries\NStore.Services\bin\Debug\NStore.Data.pdb
 E:\NStore\Libraries\NStore.Services\obj\Debug\NStore.Services.csprojResolveAssemblyReference.cache
 E:\NStore\Libraries\NStore.Services\obj\Debug\NStore.Services.dll
 E:\NStore\Libraries\NStore.Services\obj\Debug\NStore.Services.pdb
+D:\test\NStore\NStore\Libraries\NStore.Services\bin\Debug\NStore.Services.dll
+D:\test\NStore\NStore\Libraries\NStore.Services\bin\Debug\NStore.Services.pdb
+D:\test\NStore\NStore\Libraries\NStore.Services\bin\Debug\NStore.Core.dll
+D:\test\NStore\NStore\Libraries\NStore.Services\bin\Debug\NStore.Data.dll
+D:\test\NStore\NStore\Libraries\NStore.Services\bin\Debug\NStore.Core.pdb
+D:\test\NStore\NStore\Libraries\NStore.Services\bin\Debug\NStore.Data.pdb
+D:\test\NStore\NStore\Libraries\NStore.Services\obj\Debug\NStore.Services.csprojResolveAssemblyReference.cache
+D:\test\NStore\NStore\Libraries\NStore.Services\obj\Debug\NStore.Services.dll
+D:\test\NStore\NStore\Libraries\NStore.Services\obj\Debug\NStore.Services.pdb

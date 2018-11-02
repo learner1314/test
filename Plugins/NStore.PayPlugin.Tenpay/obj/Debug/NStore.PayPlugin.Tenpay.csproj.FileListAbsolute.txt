@@ -7,3 +7,11 @@ E:\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Tenpay\NStore.PayPlug
 E:\NStore\Plugins\NStore.PayPlugin.Tenpay\obj\Debug\NStore.PayPlugin.Tenpay.csprojResolveAssemblyReference.cache
 E:\NStore\Plugins\NStore.PayPlugin.Tenpay\obj\Debug\NStore.PayPlugin.Tenpay.dll
 E:\NStore\Plugins\NStore.PayPlugin.Tenpay\obj\Debug\NStore.PayPlugin.Tenpay.pdb
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Tenpay\db.config
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Tenpay\plugin.config
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Tenpay\views\admintenpay\config.cshtml
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Tenpay\views\show.cshtml
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Tenpay\NStore.PayPlugin.Tenpay.dll
+D:\test\NStore\NStore\Presentation\NStore.Web\plugins\NStore.PayPlugin.Tenpay\NStore.PayPlugin.Tenpay.pdb
+D:\test\NStore\NStore\Plugins\NStore.PayPlugin.Tenpay\obj\Debug\NStore.PayPlugin.Tenpay.dll
+D:\test\NStore\NStore\Plugins\NStore.PayPlugin.Tenpay\obj\Debug\NStore.PayPlugin.Tenpay.pdb
